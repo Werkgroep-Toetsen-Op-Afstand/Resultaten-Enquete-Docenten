@@ -9,4 +9,9 @@ kennisbronnen-voor-toetsen-op-afstand
 conclusie-en-implicaties-voor-tools
 enquête-vragen
 toetsafname
+toetslocatie
+aanpassingen
+toelichting-aanpassing
+aanpassingen-na-covid
+op-afstand-getoetst
 enquête-data

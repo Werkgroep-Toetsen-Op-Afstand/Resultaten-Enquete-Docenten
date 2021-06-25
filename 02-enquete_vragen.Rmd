@@ -1,0 +1,13 @@
+# Enquête vragen
+
+## Toetsafname
+
+**Kunnen de toetsen op dit moment ongewijzigd worden afgenomen?**
+
+**Met ongewijzigd wordt bedoeld: zoals opgenomen in het huidige onderwijs-/toetsprogramma en/of onderwijs- en examenregelement (OER) en zoals u die vóór de COVID-19 ontwikkeld had. Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie (zie deze link voor meer informatie hierover).**
+
+Toets | Ja | Nee | nvt
+------|----|-----|----
+Formatief | 50.9% | 20.2% | 9.2%
+Summatief | 36.8% | 41.7% | 1.2%
+

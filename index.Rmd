@@ -55,7 +55,7 @@ Bij toetsen op afstand is het voorkomen en opmerken van fraude een groter proble
 Genoemde maatregelen tegen fraude:
 
 Actie	| Frequentie
-------|-----------
+:-----|:----------
 Online proctoring	| 28
 Unieke toets per student | 17
 Inzetten plagiaatsoftware	| 12
@@ -95,6 +95,7 @@ De onderstaande aanbevelingen voor concrete handreikingen worden bij navraag doo
 *	Inzicht in de kosten van het omzetten van het bovenstaande
 
 ## Conclusie en implicaties voor tools
+
 Uit deze verkenning blijkt ten eerste dat toetsing op grote schaal wezenlijke aanpassingen heeft ondergaan naar aanleiding van de COVID-19 maatregelen. De aanpassingen zitten met name in de wijze van afname en de omzetting van kennistoetsen naar vormen die op afstand afgenomen kunnen worden. Een groot deel van de toetsing heeft dan ook, ondanks alle beperkingen, plaatsgevonden. Toetsen die enkel qua afname aangepast werden, waren daar meestal al geschikt voor en behoefden geen inhoudelijke aanpassingen. Kennistoetsen zijn niet van zichzelf geschikt voor afname op afstand en daarbij hebben dan ook de meeste inhoudelijke aanpassingen plaatsgevonden. De eerste uitdaging lag voor docenten bij het ontwerpen van deze alternatieve toetsvormen. De toetskwaliteit stond onder druk omdat toetstaken op een ander taxonomisch niveau kwamen te liggen. Daar komt bij dat deze omzetting in een zeer korte tijd plaats moest vinden, wat de nodige werkdruk heeft opgeleverd. De tweede uitdaging lag bij het afnemen van toetsen. Fraude was lastig te ontdekken omdat de omgeving slechts deels gecontroleerd kon worden. Online proctoring werd soms gezien als de oplossing, maar dit zorgde soms ook voor grote problemen en weerstand bij studenten in verband met hun privacy (Heyblom, 2021).
 
 Ondanks de uitgebreide ervaring met toetsen op afstand tijden de COVID-19 maatregelen, behoeven drie onderwerpen nog verduidelijking voordat toetsen op afstand in de toekomst een gedegen vaste plek kan krijgen in de toetsprogramma’s: visie, toetsbekwaamheid van docenten en tools.

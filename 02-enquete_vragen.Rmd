@@ -75,7 +75,7 @@ Nog niet bekend | 5,5%
 Toetsen op afstand | Percentage
 :------------------|:----------
 Nee | 6,7%
-Ja | 65,0
+Ja | 65,0%
 
 ## Problemen toetsen op afstand
 

@@ -6,17 +6,17 @@
 
 **Met ongewijzigd wordt bedoeld: zoals opgenomen in het huidige onderwijs-/toetsprogramma en/of onderwijs- en examenregelement (OER) en zoals u die vóór de COVID-19 ontwikkeld had. Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie (zie deze link voor meer informatie hierover).**
 
-Toets | Ja | Nee | nvt
-------|----|-----|----
-Formatief | 50.9% | 20.2% | 9.2%
-Summatief | 36.8% | 41.7% | 1.2%
+| Toets     | Ja | Nee | nvt |
+|:----------|:---|:----|:----|
+| Formatief | 50.9% | 20.2% | 9.2% |
+| Summatief | 36.8% | 41.7% | 1.2% |
 
 ## Toetslocatie
 
 **Waar vindt de toetsing op dit moment, tijdens de COVID-19 maatregelen, grotendeels plaats?**
 
 Locatie | Percentage
---------|-----------
+:-------|:----------
 Op de onderwijsinstelling | 21,5%
 Vanuit huis/op afstand | 33,1%
 Op de werkplek (stage) | 1,2%
@@ -30,7 +30,7 @@ Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie.
 **En zo ja; om welke aanpassingen ging dit? (meerdere antwoorden mogelijk)**
 
 Locatie | Frequentie
---------|-----------
+:-------|:----------
 Nee, er waren geen aanpassingen noodzakelijk | 14
 Ja; aanpassing wijze van afname (digitaal ipv fysiek) | 99
 Ja; aanpassing toetsdoelen | 17
@@ -59,7 +59,7 @@ Eén respondent geeft aan dat een alternatieve toetsvorm zo goed bevallen is dat
 **Wat wordt er na de COVID-maatregelen gedaan met de nieuwe aangepaste toetsen, wanneer het onderwijs weer in gangbare vorm kan plaatsvinden?**
 
 Aanpassing | Percentage
------------|-----------
+:----------|:----------
 We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 6,1%
 We gebruiken zowel de nieuwe aangepaste toetsen als de oorspronkelijke toetsen | 35,6%
 We gebruiken dan weer de oorspronkelijke toetsen en er wordt niet gedaan met de nieuwe aangepaste toetsen | 12,3%
@@ -73,7 +73,7 @@ Nog niet bekend | 5,5%
 **Met toetsen op afstand bedoelen we toetsen waarbij de student fysiek niet aanwezig is op de campus om de toets te maken. Het gaat daarbij om een toets die  (zonder COVID-19 maatregelen) ook op de campus afgenomen had kunnen worden en dus niet om bijvoorbeeld langere opdrachten of scripties.**
 
 Toetsen op afstand | Percentage
--------------------|-----------
+:------------------|:----------
 Nee | 6,7%
 Ja | 65,0
 
@@ -106,7 +106,7 @@ Er zijn niet veel docenten die deze vraag ingevuld hebben, een deel geeft aan da
 **Wat is het type toetsen waar u de meeste problemen mee heeft ervaren? Zie [deze link voor meer informatie over de type toetsen](https://score.hva.nl/docent/keuze_toetsvormen/Paginas/default.aspx).**
 
 Toets soort | Percentage
-------------|-----------
+:-----------|:----------
 Integrale toets(en)	|	0,6%
 Integrale toets(en),Praktijktoets(en) (bij het werkplekleren/stage),Scriptie | 0,6%
 Kennistoets(en)	| 12,9%
@@ -127,7 +127,7 @@ Anders	|	2,5%
 **Heeft u de beschikking over handreikingen, hulpdocumenten of andere bronnen, bedoeld voor het toetsen op afstand?**
 
 Handreikingen | Percentage
---------------|-----------
+:-------------|:----------
 Ja | 47,2%
 Nee	| 18,4%
 
@@ -168,7 +168,7 @@ Webinar met voorbeelden van online tools (naar voorbeeld van UU Educatie)
 **Liep u bij het toetsen op afstand tegen problemen aan bij procedures, regels en richtlijnen of in de toetsorganisatie?**
 
 . | Problemen en uitdagingen bij procedures, regels en richtlijnen of in de toetsorganisatie?	| Mogelijke oplossingsrichtingen / verbetermogelijkheden | Nieuwe inzichten die u wilt delen
---|--|--|--
+:-|:--|:--|:--
 Doelbepaling/toetsontwerp |	Overzicht houden op toetsprogramma. Robuustheid tp. Betrouwbaar en valide toetsen. Aanpassingen kosten tijd en mogen (EC) of kunnen (ICT) soms niet. | Bijhouden wijzigingen in toetsen. Meer tijd, deskundigheid en ondersteuning. Flexibele systemen en toetsprogramma. Fysieke afname.	| Noodgedwongen hebben docenten een grote professionaliseringsslag gemaakt, maar dit heeft een zware wissel getrokken ivm tijdsdruk en werkdruk. 
 Toetsconstructie | Zicht op afnamecondities bij digitale afname. Onbekendheid materie. Tijdsdruk. Lage orde toetsen onmogelijk. EC blokt andere toetsvorm.| Aanschaf speciale software, expert ondersteuning, meer tijd. Ruimte krijgen van ec. |
 Toetsafname | Betrouwbaarheid ICT. Proctoring en fraude. Meer tijd kwijt. Ondersteuning mist.	| Proctoring, meer tijd, fysieke afname, docenten aanwezig, veilige ict. Ec meer tijd geven, ondersteuning	| Al veel gedaan, maar nog een lange weg te gaan voordat het toetsen op afstand goed en eerlijk kan plaatsvinden. 

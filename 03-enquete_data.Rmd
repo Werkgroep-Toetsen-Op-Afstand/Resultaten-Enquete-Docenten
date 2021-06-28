@@ -3,6 +3,22 @@
 Download hier:
 
 * [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/)
-* [De ruwe date van alle respondenten die hier akkoord mee waren (csv)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/)
+* [De ruwe date van alle respondenten die hier akkoord mee waren (SPSS .sav)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/teachers_results_public.sav)
 
+
+```{r, echo=FALSE, warning=FALSE}
+library(foreign)
+
+results <- read.spss(file = "docs/files/teachers_results_public.sav", to.data.frame=TRUE)
+
+library("DT")
+datatable(results, extensions = c('Buttons', 'Responsive'), options = list(
+    dom = 'Bfrtip',
+    buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+    scrollX = TRUE,
+    fixedColumns = TRUE,
+    pageLength = 3
+  )
+)
+```
 

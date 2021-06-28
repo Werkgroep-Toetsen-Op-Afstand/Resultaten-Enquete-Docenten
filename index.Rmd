@@ -12,7 +12,7 @@ github-repo: Werkgroep-Toetsen-Op-Afstand/Resultaten-Enquete-Examencommissies
 description: "Resultaten Landelijke Enquête Docenten."
 ---
 
-# Introductie {#intro}
+# Rapportage {#intro}
 
 Plaats- en tijdonafhankelijk toetsen kwam door de pandemie hoog op de agenda te staan. Op het gebied van toetsen op afstand bleek dat er nog veel moest gebeuren. Docenten in het hoger onderwijs hebben veel vragen als het gaat om het omzetten van toetsen die pasten binnen de maatregelen. Dit artikel laat zien welke problemen docenten tegenkwamen, geeft richting en handvatten voor oplossingen en tools welke docenten in de toekomst kunnen helpen bij toetsen op afstand.
 

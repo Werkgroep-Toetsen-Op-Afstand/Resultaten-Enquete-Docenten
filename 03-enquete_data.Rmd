@@ -5,6 +5,29 @@ Download hier:
 * [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/Vragenlijst_HO_werkgroep_oetsen_op_afstand_2021.pdf)
 * [De ruwe date van alle respondenten die hier akkoord mee waren (SPSS .sav)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/teachers_results_public.sav)
 
+## Doel enquête
+
+Om een goed beeld te krijgen van de vraagstukken die spelen bij docenten rondom toetsen op afstand, heeft de werkgroep Toetsen op afstand een vragenlijst uitgezet. Het doel was om nog beter vast te stellen welke inzichten het beste gedeeld konden worden, en welke oplossingen/praktische handvatten de werkgroep kan ontwikkelen voor docenten om het toetsen op afstand te ondersteunen, tijdens de COVID-19 maatregelen en daarna.
+
+## Doelgroep
+
+Er is voor gekozen om docenten/opleiders, examinatoren, leden van toets-/opleidings-/curriculumcommissie of onderwijscoördinators te beanderen die verantwoordelijk zijn voor het opstellen en afnemen van toetsen. Deelname aan het onderzoek was geheel vrijwillig. Er was tijdens het invullen van de enquête de mogelijkheid om vragen niet te beantwoorden en over te slaan. 
+
+## Privacy
+
+De antwoorden op de vragen in de vragenlijst zijn anoniem verzameld. Respondenten zijn erop gewezen dat het starten van de enquête wordt geïnterpreteerd als een indicatie van instemming om deel te nemen aan deze studie. Hiermee is echter op geen enkele manier afstand gedaan van wettelijke rechten en het ontheft de onderzoekers of de betrokken instellingen niet van hun wettelijke en professionele verantwoordelijkheden.    
+Voor het afnemen van de vragenlijst is gebruik gemaakt van het online platform Qualtrics. Dit platform voldoet aan de AVG/GDPR richtlijnen. Na afsluiten van de enquête zijn de gegevens verwijderd uit Qualtrics en samen met de gedeelde documenten worden opgeslagen op een SURF-drive waar alleen de werkgroep Toetsen op Afstand toegang toe heeft.
+
+## Resultaten onderzoek
+
+De werkgroep Toetsen op Afstand is naar aanleiding van de enquête bezig met de ontwikkeling van een tool voor docenten die hen kan helpen bij toetsen op afstand in de toekomst.
+De uitkomsten van dit onderzoek kunnen ook gebruikt worden door instellingen om de toekomstige wijze van toetsing te optimaliseren. Enquête-antwoorden worden uitsluitend gepubliceerd, indien respondenten expliciet toestemming hebben gegeven voor het publiceren van hun antwoorden. Antwoorden zijn niet rechtstreeks herleidbaar naar specifieke instellingen. 
+
+## Respons
+
+201 respondenten zijn gestart met de vragenlijst en hebben de vragenlijst deels of geheel beantwoord. 151 docenten hebben bruikbare antwoorden gegeven. 66,9% van die 151 hebben meer dan 70% van de vragen beantwoord. Respondenten kwamen vooral uit het hbo (78,9%) en deels ook wo (16,8%). De respondenten kwamen het meest uit de domeinen economie en bedrijf, onderwijs en opvoeding, techniek en gezondheid en dan voornamelijk uit grote onderwijsinstellingen. Het merendeel van de respondenten was docent en dan meestal in de rol van examinator. 
+
+## Bekijk data
 
 ```{r, echo=FALSE, warning=FALSE}
 library(foreign)

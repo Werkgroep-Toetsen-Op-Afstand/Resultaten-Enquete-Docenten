@@ -7,7 +7,7 @@ uitdagingen-bij-toetsen-op-afstand
 uitdagingen-bij-aanpassing-van-toetsen
 kennisbronnen-voor-toetsen-op-afstand
 conclusie-en-implicaties-voor-tools
-enquête-vragen
+resultaten-per-vraag
 toetsafname
 toetslocatie
 aanpassingen

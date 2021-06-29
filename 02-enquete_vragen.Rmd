@@ -120,10 +120,10 @@ Anders	|	8.3%
 
 **Heeft u de beschikking over handreikingen, hulpdocumenten of andere bronnen, bedoeld voor het toetsen op afstand?**
 
-Handreikingen | Percentage
+Handreikingen | Percentage (n=107)
 :-------------|:----------
-Ja | 47,2%
-Nee	| 18,4%
+Ja | 72.0%
+Nee	| 28.0%
 
 ## Nuttig uit handreiking
 

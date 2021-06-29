@@ -10,19 +10,19 @@ In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêt
 
 | Toets     | Ja | Nee | nvt |
 |:----------|:---|:----|:----|
-| Formatief | 50.9% | 20.2% | 9.2% |
-| Summatief | 36.8% | 41.7% | 1.2% |
+| Formatief (n=131) | 63.4% | 25.2% | 11.5% |
+| Summatief (n=130) | 46.2% | 52.3% | 1.5% |
 
 ## Toetslocatie
 
 **Waar vindt de toetsing op dit moment, tijdens de COVID-19 maatregelen, grotendeels plaats?**
 
-Locatie | Percentage
+Locatie | Percentage (n=131)
 :-------|:----------
-Op de onderwijsinstelling | 21,5%
-Vanuit huis/op afstand | 33,1%
-Op de werkplek (stage) | 1,2%
-Hybride (een mix van bovenstaande) | 24,5% 
+Op de onderwijsinstelling | 26.7%
+Vanuit huis/op afstand | 41.2%
+Op de werkplek (stage) | 1,5%
+Hybride (een mix van bovenstaande) | 30.5% 
 
 ## Aanpassingen
 
@@ -60,13 +60,13 @@ Eén respondent geeft aan dat een alternatieve toetsvorm zo goed bevallen is dat
 
 **Wat wordt er na de COVID-maatregelen gedaan met de nieuwe aangepaste toetsen, wanneer het onderwijs weer in gangbare vorm kan plaatsvinden?**
 
-Aanpassing | Percentage
+Aanpassing | Percentage (n=99)
 :----------|:----------
-We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 6,1%
-We gebruiken zowel de nieuwe aangepaste toetsen als de oorspronkelijke toetsen | 35,6%
-We gebruiken dan weer de oorspronkelijke toetsen en er wordt niet gedaan met de nieuwe aangepaste toetsen | 12,3%
-Nieuwe aangepaste toetsen aanpassen o.b.v. ervaringen tijdens COVID | 1,2%
-Nog niet bekend | 5,5%
+We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 10,1%
+We gebruiken zowel de nieuwe aangepaste toetsen als de oorspronkelijke toetsen | 58,6%
+We gebruiken dan weer de oorspronkelijke toetsen en er wordt niet gedaan met de nieuwe aangepaste toetsen | 20,2%
+Nieuwe aangepaste toetsen aanpassen o.b.v. ervaringen tijdens COVID | 2.0%
+Nog niet bekend | 9,1%
 
 ## Op afstand getoetst
 

@@ -74,16 +74,16 @@ Nog niet bekend | 9,1%
 
 **Met toetsen op afstand bedoelen we toetsen waarbij de student fysiek niet aanwezig is op de campus om de toets te maken. Het gaat daarbij om een toets die  (zonder COVID-19 maatregelen) ook op de campus afgenomen had kunnen worden en dus niet om bijvoorbeeld langere opdrachten of scripties.**
 
-Toetsen op afstand | Percentage
+Toetsen op afstand | Percentage (n=117)
 :------------------|:----------
-Nee | 6,7%
-Ja | 65,0%
+Nee | 9.4%
+Ja | 90.6%
 
 ## Problemen toetsen op afstand
 
-Als u bij het toetsen op afstand bij onderstaande activiteiten problemen of uitdagingen heeft ondervonden, zou u deze dan willen omschrijven?
+**Als u bij het toetsen op afstand bij onderstaande activiteiten problemen of uitdagingen heeft ondervonden, zou u deze dan willen omschrijven?**
 
-Wilt u daarbij vermelden bij welke soort(en) toets(en) dit aan de orde was (bijvoorbeeld kennistoets of vaardigheidstoets)?
+**Wilt u daarbij vermelden bij welke soort(en) toets(en) dit aan de orde was (bijvoorbeeld kennistoets of vaardigheidstoets)?**
 
 ### Problemen of uitdagingen bij (her)formuleren van toetsdoelen
 
@@ -107,22 +107,14 @@ Er zijn niet veel docenten die deze vraag ingevuld hebben, een deel geeft aan da
 
 **Wat is het type toetsen waar u de meeste problemen mee heeft ervaren? Zie [deze link voor meer informatie over de type toetsen](https://score.hva.nl/docent/keuze_toetsvormen/Paginas/default.aspx).**
 
-Toets soort | Percentage
+Toets soort | Percentage (n=48)
 :-----------|:----------
-Integrale toets(en)	|	0,6%
-Integrale toets(en),Praktijktoets(en) (bij het werkplekleren/stage),Scriptie | 0,6%
-Kennistoets(en)	| 12,9%
-Kennistoets(en),Integrale toets(en)	|	0,6%
-Kennistoets(en),Praktijktoets(en) (bij het werkplekleren/stage)	|	0,6%
-Kennistoets(en),Praktijktoets(en) (bij het werkplekleren/stage),Scriptie | 0,6%
-Kennistoets(en),Vaardigheidstoets(en)	|	3,7%
-Kennistoets(en),Vaardigheidstoets(en),Praktijktoets(en) (bij het werkplekleren/stage)	|	1,8%
-Vaardigheidstoets(en)	|	1,8%
-Vaardigheidstoets(en),Integrale toets(en)	|	1,2%
-Vaardigheidstoets(en),Integrale toets(en),Praktijktoets(en) (bij het werkplekleren/stage)	|	0,6%
-Vaardigheidstoets(en),Praktijktoets(en) (bij het werkplekleren/stage)	|	1,2%
-Vaardigheidstoets(en),Praktijktoets(en) (bij het werkplekleren/stage),Scriptie |	0,6%
-Anders	|	2,5%
+Kennistoets(en)	|	68.8%
+Vaardigheidstoets(en) | 37.5%
+Praktijktoets(en) en werkplekleren/stage	|	20.8%
+Integrale toets(en)	| 12,5%
+Scriptie | 6.3%
+Anders	|	8.3%
 
 ## Beschikbaarheid handreikingen
 

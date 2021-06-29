@@ -1,4 +1,4 @@
-# Enquête vragen
+# Resultaten per vraag
 
 ## Toetsafname
 

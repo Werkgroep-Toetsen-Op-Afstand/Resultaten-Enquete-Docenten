@@ -2,7 +2,7 @@
 
 Download hier:
 
-* [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/)
+* [De enquete zoals die via qualtrics is voorgelegd aan de respondenten (PDF)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/Vragenlijst_HO_werkgroep_oetsen_op_afstand_2021.pdf)
 * [De ruwe date van alle respondenten die hier akkoord mee waren (SPSS .sav)](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/files/teachers_results_public.sav)
 
 

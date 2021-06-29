@@ -11,9 +11,6 @@ documentclass: book
 github-repo: Werkgroep-Toetsen-Op-Afstand/Resultaten-Enquete-Examencommissies
 description: "Resultaten Landelijke Enquête Docenten."
 always_allow_html: true
-bookdown::gitbook:
-  includes:
-    in_header: google_analytics.html
 ---
 
 # Rapportage {#intro}

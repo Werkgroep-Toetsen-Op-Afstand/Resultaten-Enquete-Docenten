@@ -2,7 +2,8 @@
 
 In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêtevraag volgt een samenvatting van de gegeven antwoorden en geven we duiding aan de respons. 
 
-## Toetsafname
+## Toetsen op afstand
+### Toetsafname
 
 **Kunnen de toetsen op dit moment ongewijzigd worden afgenomen?**
 
@@ -13,7 +14,7 @@ In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêt
 | Formatief (n=131) | 63.4% | 25.2% | 11.5% |
 | Summatief (n=130) | 46.2% | 52.3% | 1.5% |
 
-## Toetslocatie
+### Toetslocatie
 
 **Waar vindt de toetsing op dit moment, tijdens de COVID-19 maatregelen, grotendeels plaats?**
 
@@ -24,7 +25,7 @@ Vanuit huis/op afstand | 41.2%
 Op de werkplek (stage) | 1,5%
 Hybride (een mix van bovenstaande) | 30.5% 
 
-## Aanpassingen
+### Aanpassingen
 
 **Waren er sinds de COVID-19 maatregelen (maart 2020) aanpassingen noodzakelijk in de toetsing?
 Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie.**
@@ -40,7 +41,7 @@ Ja; aanpassing toetsvorm | 79
 Ja; aanpassing toetsmatrijs | 17
 Ja; aanpassing toetsprogramma | 15
 
-## Toelichting aanpassing
+### Toelichting aanpassing
 
 **Kunt u beknopt de uitgevoerde aanpassingen toelichten?**
 
@@ -54,7 +55,7 @@ Een klein deel van de respondenten (6) geeft aan dat de toetsdoelen zijn aangepa
 
 Respondenten geven meestal niet aan op basis waarvan de omzetting van de toetsvorm heeft plaatsgevonden. Slechts een enkeling geeft aan dat dit op basis van handreikingen binnen het instituut gebeurt.
 
-## Aanpassingen na COVID
+### Aanpassingen na COVID
 
 **Wat wordt er na de COVID-maatregelen gedaan met de nieuwe aangepaste toetsen, wanneer het onderwijs weer in gangbare vorm kan plaatsvinden?**
 
@@ -66,7 +67,8 @@ We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 10,1
 Nog niet bekend | 9,1%
 We passen de nieuwe, aangepaste toetsen aan o.b.v. ervaringen tijdens COVID | 2.0%
 
-## Op afstand getoetst
+## Toetsdoel en toetsontwerp
+### Op afstand getoetst
 
 **Toetst u op afstand of heeft u tijdens COVID-19 maatregelen op afstand getoetst?**
 
@@ -77,19 +79,19 @@ Toetsen op afstand | Percentage (n=117)
 Ja | 90.6%
 Nee | 9.4%
 
-## Problemen toetsen op afstand
+### Problemen toetsen op afstand
 
 **Als u bij het toetsen op afstand bij onderstaande activiteiten problemen of uitdagingen heeft ondervonden, zou u deze dan willen omschrijven?**
 
 **Wilt u daarbij vermelden bij welke soort(en) toets(en) dit aan de orde was (bijvoorbeeld kennistoets of vaardigheidstoets)?**
 
-### Problemen of uitdagingen bij (her)formuleren van toetsdoelen
+#### Problemen of uitdagingen bij (her)formuleren van toetsdoelen
 
 Ook bij dit onderdeel komt terug dat er een uitdaging ligt bij het herformuleren van toetsdoelen op een hoger niveau. Dit houdt verband met de onmogelijkheid van het hergebruiken en het zonder fraude afnemen van kennis/reproductievragen, in ieder geval zonder proctoring toe te passen. Immers zijn de omstandigheden zonder proctoring onmogelijk  te controleren. Proctoring brengt echter ook problemen met zich mee qua betrouwbaarheid, privacygevoeligheid en systeemeisen. Soms werd als oplossing het probleem omzeild door de toetsing voor bepaalde onderdelen uit te stellen tot het moment dat het afnemen van fysieke toetsen weer mogelijk was.
 
 Daarnaast wordt genoemd dat het eigenlijk niet mogelijk is om alleen de toetsdoelen te herformuleren; ook de leerdoelen zouden dan aangepast moeten worden. 
 
-### Problemen of uitdagingen bij (her)ontwerp van toets(en)
+#### Problemen of uitdagingen bij (her)ontwerp van toets(en)
 
 Uit de meeste reacties blijkt dat er veelvuldig gebruik gemaakt is van de documenten die verschillende hogescholen aan elkaar beschikbaar stelden. Een overzicht en concrete handvatten om toetsen om te zetten, en om goede toetsvragen te construeren, worden gemist. 
 
@@ -97,11 +99,11 @@ Ondanks deze beschikbaarheid liepen een aantal docenten toch tegen het probleem 
 
 Er worden veel (66) opmerkingen gemaakt over de toetskwaliteit, de borging van de toetskwaliteit en andere gerelateerde zaken; bijvoorbeeld fraudegevoeligheid, proctoring, of de werkdruk en tijdsdruk waardoor de kwaliteit onder druk komt te staan. Het is bij online toetsen lastig om zeker te weten dat de juiste student de, in een zeer korte tijd ontwikkelde, toets maakt en dat de antwoorden individueel onder de juiste omstandigheden gegeven worden. En zelfs als dat al zo is, dan is de vraag of er wel het juiste getoetst wordt, omdat er vaak op een ander niveau getoetst wordt.
 
-### Problemen of uitdagingen bij (her)ontwerp van het toetsprogramma
+#### Problemen of uitdagingen bij (her)ontwerp van het toetsprogramma
 
 Er zijn niet veel docenten die deze vraag ingevuld hebben. Een deel geeft aan hier geen zicht op te hebben. De docenten die de vraag wel ingevuld hebben zijn echter duidelijk: het toetsprogramma wordt niet aangepast binnen de huidige maatregelen, en dat zou ook niet moeten. Het wordt gebruikt om bijvoorbeeld toetsen op hoger niveau te verantwoorden, om de methodemix te beschrijven en te vergelijken of om aan te geven dat bepaalde toetsen in een ander deel of een ander moment binnen het toetsprogramma terugkomen.
 
-## Type toetsen
+### Type toetsen
 
 **Wat is het type toetsen waar u de meeste problemen mee heeft ervaren? Zie [deze link voor meer informatie over de type toetsen](https://score.hva.nl/docent/keuze_toetsvormen/Paginas/default.aspx).**
 
@@ -114,7 +116,7 @@ Integrale toets(en)	| 12,5%
 Scriptie | 6.3%
 Anders	|	8.3%
 
-## Beschikbaarheid handreikingen
+### Beschikbaarheid handreikingen
 
 **Heeft u de beschikking over handreikingen, hulpdocumenten of andere bronnen, die zijn bedoeld voor het toetsen op afstand?**
 
@@ -123,7 +125,7 @@ Handreikingen | Percentage (n=107)
 Ja | 72.0%
 Nee	| 28.0%
 
-## Nuttig uit handreiking
+### Nuttig uit handreiking
 
 **Welke informatie uit de handreikingen, hulpdocumenten of andere bronnen vond u het meest bruikbaar of waardevol en zou u daarom aanbevelen voor een nieuwe aanvullende online tool?**
 
@@ -155,7 +157,8 @@ Opvallend is dat de door sommige docenten gevraagde informatie (bijvoorbeeld een
 
 Webinar met voorbeelden van online tools (naar voorbeeld van UU Educatie)
 
-## Regels en richtlijnen
+## Procedures, regels, richtlijnen en toetsorganisatie
+### Regels en richtlijnen
 
 **Liep u bij het toetsen op afstand tegen problemen aan bij procedures, regels en richtlijnen of in de toetsorganisatie?**
 
@@ -167,7 +170,7 @@ Toetsafname | Betrouwbaarheid ICT. Proctoring en fraude. Meer tijd kwijt. Onders
 Beoordelen | Tijdsdruk i.v.m. deadlines en complexere beoordelingen. Authenticiteit van studenten, fraude. Soms onmogelijk om de OER-termijnen te aanhouden. | Docenten ondersteunen en facilteren. Analyses over slagingspercentages en plagiaat. | Ervaring noodzakelijk bij inzet en beoordelen van proctoringinformatie.
 Communiceren en registreren (inclusief inzage) | Inzage van mindere kwaliteit, en grotere vraag i.v.m. minder vertrouwen bij studenten. Vragen op straat bij online inzage. | ICT-systemen voor inzage in grote groepen, daarna individueel maatwerk.	| Bekendheid geven over problemen, zoals vragen op straat. 
 
-## Aanvullende opmerkingen
+### Aanvullende opmerkingen
 
 **Heeft u nog aanvullende opmerkingen en/of suggesties bij de matrix; vul deze dan hier in:**
 

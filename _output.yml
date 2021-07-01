@@ -6,7 +6,8 @@ bookdown::gitbook:
       before: |
         <li><a href="./">Resultaten Enquête Docenten</a></li>
       after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        <li><a href="https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Examencommissies/" target="blank">Resultaten Enquête Examencommissies</a></li>
+        <li><a href="mailto:annette.peet@surfnet.nl?SUBJECT=Reactie Resultaten Enquête Docenten" target="blank">Mail de werkgroep</a></li>
     search: yes
     download: ["epub", "pdf"]
   includes:

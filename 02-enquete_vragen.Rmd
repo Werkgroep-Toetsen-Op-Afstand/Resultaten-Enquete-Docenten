@@ -130,7 +130,7 @@ Nee	| 28.0%
 **Welke informatie uit de handreikingen, hulpdocumenten of andere bronnen vond u het meest bruikbaar of waardevol en zou u daarom aanbevelen voor een nieuwe aanvullende online tool?**
 
 Er zijn zowel docenten die aangeven dat bepaalde handreikingen erg geholpen hebben als docenten die aangeven dat er behoefte is aan bepaalde handreikingen. Het is duidelijk dat deze twee perspectieven nog onvoldoende bij elkaar komen. Soms worden concrete onderdelen benoemd, zoals de resultaten uit het onderzoek naar formatief evalueren van Baartman en Gullikers (2017), of boeken zoals Programmatisch toetsen (Baartman, Schilt-Mol en Van der Vleuten, 2020) en Toetsrevolutie (Sluijsmans en Segers, 2018). Deze literatuur richt zich echter voornamelijk op de doorontwikkeling van assessmentpraktijken, niet per se op oplossingen binnen de coronacrisis. 
-Docenten geven regelmatig aan dat hun eigen hogeschool handreikingen heeft opgesteld op basis van bestaande, landelijk gedeelde documenten die zijn vertaald naar de eigen context.  
+Docenten geven regelmatig aan dat hun eigen hogeschool handreikingen heeft opgesteld op basis van bestaande, landelijk gedeelde documenten die zijn vertaald naar de eigen context. Sommige docenten gaven echter ook aan deze handreikingen juist te missen of zagen door de hoeveelheid informatie door de bomen het bos niet meer. 
 
 Aanbevelingen voor concrete handreikingen liggen in de volgende onderdelen:
 
@@ -150,20 +150,14 @@ Aanbevelingen voor concrete handreikingen liggen in de volgende onderdelen:
 
 Daarnaast is er behoefte aan expertbegeleiding bij bovenstaande vraagstukken, zowel op inhoudelijk als organisatorisch vlak, op diverse onderdelen binnen de toetscyclus. Goede voorbeelden worden als helpend ervaren, bijvoorbeeld in de vorm van instructievideo's. Deze worden soms meer gewaardeerd dan pagina’s aan lange handleidingen. 
 
-Opvallend is dat de door sommige docenten gevraagde informatie (bijvoorbeeld een beslisboom over andere toetsvormen) door anderen juist benoemd wordt als erg behulpzaam. De hierboven genoemde handreikingen zijn mijn inziens dan ook vaak reeds aanwezig, maar blijkbaar schort het aan bekendheid en aan structuur doordat 
-
-> … je door de bomen het bos niet meer ziet. Een heldere boomstructuur zou mij bijvoorbeeld erg kunnen helpen… (R_2ScdSztmmFtXyXG).
-
-Webinar met voorbeelden van online tools (naar voorbeeld van UU Educatie)
-
 ## Procedures, regels, richtlijnen en toetsorganisatie
 ### Regels en richtlijnen
 
 **Liep u bij het toetsen op afstand tegen problemen aan bij procedures, regels en richtlijnen of in de toetsorganisatie?**
 
-. | Problemen en uitdagingen bij procedures, regels en richtlijnen of in de toetsorganisatie?	| Mogelijke oplossingsrichtingen / verbetermogelijkheden | Nieuwe inzichten die u wilt delen
+:-| Problemen en uitdagingen bij procedures, regels en richtlijnen of in de toetsorganisatie?	| Mogelijke oplossingsrichtingen / verbetermogelijkheden | Nieuwe inzichten die u wilt delen
 :-|:--|:--|:--
-Doelbepaling/toetsontwerp |	Overzicht houden op toetsprogramma. Robuustheid tp. Betrouwbaar en valide toetsen. Aanpassingen kosten tijd en mogen (EC) of kunnen (ICT) soms niet. | Bijhouden wijzigingen in toetsen. Meer tijd, deskundigheid en ondersteuning. Flexibele systemen en toetsprogramma. Fysieke afname.	| Noodgedwongen hebben docenten een grote professionaliseringsslag gemaakt, maar dit heeft voor een hoge belasting gezorgd i.v.m. tijdsdruk en werkdruk. 
+Doelbepaling/toetsontwerp |	Overzicht houden op/robuustheid toetsprogramma. Betrouwbaar en valide toetsen. Aanpassingen kosten tijd en mogen (EC) of kunnen (ICT) soms niet. | Bijhouden wijzigingen in toetsen. Meer tijd, deskundigheid en ondersteuning. Flexibele systemen en toetsprogramma. Fysieke afname.	| Noodgedwongen hebben docenten een grote professionaliseringsslag gemaakt, maar dit heeft voor een hoge belasting gezorgd i.v.m. tijdsdruk en werkdruk. 
 Toetsconstructie | Zicht op afnamecondities bij digitale afname. Onbekendheid materie. Tijdsdruk. Lage orde toetsen onmogelijk. EC blokkeert andere toetsvorm.| Aanschaf speciale software, expert ondersteuning, meer tijd. Ruimte krijgen van EC. |
 Toetsafname | Betrouwbaarheid ICT. Proctoring en fraude. Meer tijd kwijt. Ondersteuning mist.	| Proctoring, meer tijd, fysieke afname, docenten aanwezig, veilige ICT. EC meer tijd geven, ondersteuning.	| Al veel gedaan, maar nog een lange weg te gaan voordat het toetsen op afstand goed en eerlijk kan plaatsvinden. 
 Beoordelen | Tijdsdruk i.v.m. deadlines en complexere beoordelingen. Authenticiteit van studenten, fraude. Soms onmogelijk om de OER-termijnen te aanhouden. | Docenten ondersteunen en facilteren. Analyses over slagingspercentages en plagiaat. | Ervaring noodzakelijk bij inzet en beoordelen van proctoringinformatie.

@@ -1,0 +1,41 @@
+---
+# bibliography: [book.bib, packages.bib]
+# biblio-style: apalike
+# link-citations: yes
+---
+
+@techreport{gulikers2017doelgericht,
+  title={Doelgericht professionaliseren. Formatief toetsen met effect! Wat DOET de docent in de klas?: Eindrapport NRO-PPO overzichtsstudie dossiernummer 405-15-722},
+  author={Gulikers, JTM and Baartman, L},
+  year={2017},
+  institution={NRO}
+}
+@book{baartman2020programmatisch,
+  title={Programmatisch toetsen: voorbeelden en ervaringen uit de praktijk},
+  author={Baartman, L.K.J. and Schilt-Mol, T.M.M.L. and Vleuten, C.P.M.},
+  isbn={9789024434237},
+  url={https://books.google.nl/books?id=M9EwzgEACAAJ},
+  year={2020}
+}
+@book{sluijsmans2018toetsrevolutie,
+  title={Toetsrevolutie: naar een feedbackcultuur in het hoger onderwijs},
+  author={Sluijsmans, D.M.A. and Segers, M. and Bruijn, J.A. and Krijnen, K. and Flikkema, G.},
+  isbn={9789490120283},
+  url={https://books.google.nl/books?id=P6CPtQEACAAJ},
+  year={2018},
+  publisher={Phronese}
+}
+@article{heyblom2021,
+ author  = {Heyblom, Olaf,
+ date    = {2021-03-24},
+ title   = {UvA-studenten klagen over ‘oneerlijke’ tentamens psychologie},
+ journal = {Het Parool},
+ url     = {https://www.parool.nl/amsterdam/uva-studenten-klagen-over-oneerlijke-tentamens-psychologie~bb86ef8b/},
+}
+@article{linden2017het,
+  title={Het versterken van de toetsbekwaamheid in het hoger beroepsonderwijs. Eindrapportage van het landelijk onderzoek naar de waarde van de professionaliseringstrajecten basiskwalificatie examinering (BKE).},
+  author={Linden, J and de Beer, FH and Sluijsmans, DMA and Meijer, K and Boei, F},
+  year={2017},
+  publisher={[Sl]: Vereniging Hogescholen}
+}
+

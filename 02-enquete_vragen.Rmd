@@ -176,21 +176,22 @@ Veel is ook afhankelijk van de organisatie.
 
 **Wat heeft u gedaan om fraude te voorkomen bij het toetsen op afstand? Kunt u één voorbeeld beschrijven dat voor u goed werkte? Wilt u daarbij de soort toets vermelden?**
 
-1.	Studenten nabellen/interviewen om te kijken of het eigen werk was
-2.	Afnemen van digitale toetsen op locatie
-3.	Inzetten plagiaatsoftware
-4.	Proctoring
-5.	Toets met random vragen/volgorde
-6.	Toets opdelen in blokken zonder terugbladerfunctie
-7.	Digitale toetsen zonder terugbladerfunctie (soms juist ook verboden door EC)
-8.	Verkorten tijdsduur
-9.	Toetsvragen op een hoger taxonomieniveau
-10.	Informatie naar studenten over wat fraude is
-11.	Studenten verklaring laten tekenen
-12.	Controleren omgeving van de student via webcam
-13.	Opgaven met andere getallen
-14.	Time-locked opdracht, waarbij de opdracht beperkte tijd zichtbaar is en het moment van inleveren wordt beperkt in tijd. 
-
+Actie |	Frequentie
+:----------|:----------
+Online proctoring |	28
+Unieke toets per student |	17
+Inzetten plagiaatsoftware |	12
+Toets met random vragen/volgorde |	9
+Verkorten tijdsduur |	9
+Verificatiegesprekken |	8
+Toets in blokken zonder terugbladerfunctie |	4
+Studenten verklaring laten tekenen |	4
+Mondelinge toets afname |	4
+Afnemen van digitale toetsen op locatie |	2
+Informatie naar studenten over wat fraude is |	2
+Meerdere versies |	2
+Lockdown browser |	1
+ 
 Ondanks bovenstaande maatregelen geven veel docenten aan dat fraude niet voorkomen kon worden en dat deze maatregelen slechts in zeer beperkte mate hielpen. 
 
 ## Visie toetsen op afstand

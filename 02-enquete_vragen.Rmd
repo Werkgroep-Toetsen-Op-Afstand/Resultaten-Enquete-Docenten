@@ -1,12 +1,12 @@
 # Resultaten per vraag
 
-In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêtevraag volgt een samenvatting van de gegeven antwoorden.
+In dit hoofdstuk gaan wij in op de afzonderlijke enquêtevragen. Na elke enquêtevraag volgt een samenvatting van de gegeven antwoorden en geven we duiding aan de respons. 
 
 ## Toetsafname
 
 **Kunnen de toetsen op dit moment ongewijzigd worden afgenomen?**
 
-**Met ongewijzigd wordt bedoeld: zoals opgenomen in het huidige onderwijs-/toetsprogramma en/of onderwijs- en examenregelement (OER) en zoals u die vóór de COVID-19 ontwikkeld had. Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie (zie deze link voor meer informatie hierover).**
+**Met ongewijzigd wordt bedoeld: zoals opgenomen in het huidige onderwijs-/toetsprogramma en/of onderwijs- en examenregelement (OER) en zoals u die vóór de COVID-19 ontwikkeld had. Het gaat hierbij om toetsen met zowel een formatieve als een summatieve functie.**
 
 | Toets     | Ja | Nee | nvt |
 |:----------|:---|:----|:----|
@@ -44,17 +44,15 @@ Ja; aanpassing toetsprogramma | 15
 
 **Kunt u beknopt de uitgevoerde aanpassingen toelichten?**
 
-90 respondenten hebben toelichting gegeven op de uitgevoerde aanpassingen. Ruim de helft (50) van de respondenten gaf aan dat er voor een andere toetsvorm gekozen is en dat de variantie in verschillende toetsvormen binnen het onderwijs daardoor toenam. Het merendeel wordt daarbij omgezet van een kennistoets naar een take-home paper (casusopdrachten, open vragen en essay opdrachten) die meestal door studenten thuis uitgewerkt wordt, zonder dat daarbij proctoring ingezet wordt. Daarbij wordt redelijk vaak (17 keer) aangegeven dat de nadruk bij deze omgezette toetsen minder op kennisreproductie komt te liggen en meer op een hoger taxonomisch niveau. Een klein aantal geeft daarbij aan dat de reden dat de toetsen thuis gemaakt worden deels te maken heeft met capaciteitsproblemen op het instituut. Een enkeling geeft aan dat er juist ingezet is op uitbreiding van ICT-apparatuur. 
+90 respondenten hebben toelichting gegeven op de uitgevoerde aanpassingen. Ruim de helft (50) van de respondenten gaf aan dat er voor een andere toetsvorm gekozen is en dat de variantie in verschillende toetsvormen binnen het onderwijs daardoor toenam. Het merendeel wordt daarbij omgezet van een kennistoets naar een take-home tentamen (casusopdrachten, open vragen en essay opdrachten) dat meestal door studenten thuis uitgewerkt wordt, zonder dat daarbij proctoring ingezet wordt. Daarbij wordt redelijk vaak (17 keer) aangegeven dat de nadruk bij deze omgezette toetsen minder op kennisreproductie komt te liggen en meer op een hoger taxonomisch niveau. 
 
 Indien werd vastgehouden aan de reguliere toetsvorm werd 14 keer aangegeven dat er proctering wordt ingezet, bijvoorbeeld in systemen als ANS, Testvision of Cirrus. In een aantal gevallen worden de negatieve kanten van proctoring benoemd, zoals de ethische afweging en de weerstand van studenten en docenten tegen proctoring. 7 maal wordt benoemd dat online varianten van toetsing problemen opleveren met de borging van de kwaliteit van de toetsing, bijvoorbeeld bij vermoedens van fraude, wat lastig te bewijzen is. Soms wordt het ook niet als probleem gezien, bijvoorbeeld bij een programmatisch toetssysteem, waarbij de toets slechts een datapunt is en de mindere betrouwbaarheid niet als probleem ervaren wordt. 
 
-Een groot aantal respondenten (40) gaven aan dat performancetoetsen of assessments die normaliter fysiek afgenomen werden, zoals portfoliogesprekken, CGI’s en presentaties van eindwerkstukken, nu online afgenomen worden via een videoverbinding. Daarbij worden de eisen meestal gelijk gehouden en is enkel de vorm aangepast naar online. Bepaalde soorten beoordelingen, zoals veldwerk en stage, zijn soms helemaal niet mogelijk. 
+Bijna de helft van de respondenten (40) gaf aan dat performancetoetsen of assessments die normaliter fysiek afgenomen werden, zoals portfoliogesprekken, CGI’s en presentaties van eindwerkstukken, nu online afgenomen worden via een videoverbinding. Daarbij worden de eisen meestal gelijk gehouden en is enkel de vorm aangepast naar online. Bepaalde soorten beoordelingen, zoals veldwerk en stage, zijn soms helemaal niet mogelijk. 
 
-Een klein deel van de respondenten (6) geeft aan dat toetsdoelen naar aanleiding van een andere toetsvorm zijn aangepast. Soms vervallen toetsdoelen, een enkele keer worden doelen bij een toets verderop in het curriculum die op een hoger niveau toetst getoetst. Een enkele toets wordt uitgesteld wanneer fysieke afname noodzakelijk wordt geacht. Bij wijze van uitzondering worden deze toetsen, ondanks de beperkingen, zo snel mogelijk toch op locatie afgenomen. 
+Een klein deel van de respondenten (6) geeft aan dat de toetsdoelen zijn aangepast omdat er werd gekozen voor een andere toetsvorm. Soms vervallen toetsdoelen, een enkele keer worden doelen bij een toets verderop in het curriculum getoetst. Een enkele toets wordt uitgesteld wanneer fysieke afname noodzakelijk wordt geacht. Bij wijze van uitzondering worden deze toetsen, ondanks de beperkingen, zo snel mogelijk toch op locatie afgenomen. 
 
-Respondenten geven meestal niet aan op basis waarvan de omzetting van de toetsvorm heeft plaatsgevonden. Slechts een enkeling geeft aan dat dit op basis van handreikingen binnen het instituut gebeurt, soms er sturend wat niet als goed wordt ervaren. Ook wordt éénmaal de handreiking die gedeeld is op het Netwerk Toetsbekwaamheid genoemd.
-
-Eén respondent geeft aan dat een alternatieve toetsvorm zo goed bevallen is dat deze als vast in het toetsprogramma is opgenomen. In een enkel geval geeft het aanleiding tot een evaluatie van de huidige toetspraktijk. Zo wordt soms de mondelinge toetsvorm ook na de maatregelen aangehouden. 
+Respondenten geven meestal niet aan op basis waarvan de omzetting van de toetsvorm heeft plaatsgevonden. Slechts een enkeling geeft aan dat dit op basis van handreikingen binnen het instituut gebeurt.
 
 ## Aanpassingen na COVID
 
@@ -62,22 +60,22 @@ Eén respondent geeft aan dat een alternatieve toetsvorm zo goed bevallen is dat
 
 Aanpassing | Percentage (n=99)
 :----------|:----------
-We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 10,1%
 We gebruiken zowel de nieuwe, aangepaste toetsen als de oorspronkelijke toetsen | 58,6%
 We gebruiken dan weer de oorspronkelijke toetsen en er wordt niets gedaan met de nieuwe, aangepaste toetsen | 20,2%
-Nieuwe, aangepaste toetsen aanpassen o.b.v. ervaringen tijdens COVID | 2.0%
+We vervangen de oorspronkelijke toetsen door de nieuwe aangepaste toetsen | 10,1%
 Nog niet bekend | 9,1%
+We passen de nieuwe, aangepaste toetsen aan o.b.v. ervaringen tijdens COVID | 2.0%
 
 ## Op afstand getoetst
 
 **Toetst u op afstand of heeft u tijdens COVID-19 maatregelen op afstand getoetst?**
 
-**Met toetsen op afstand bedoelen we toetsen waarbij de student fysiek niet aanwezig is op de campus om de toets te maken. Het gaat daarbij om een toets die  (zonder COVID-19 maatregelen) ook op de campus afgenomen had kunnen worden, en dus niet om bijvoorbeeld langere opdrachten of scripties.**
+**Met toetsen op afstand bedoelen we toetsen waarbij de student fysiek niet aanwezig is op de campus om de toets te maken. Het gaat daarbij om een toets die (zonder COVID-19 maatregelen) ook op de campus afgenomen had kunnen worden, en dus niet om bijvoorbeeld langere opdrachten of scripties.**
 
 Toetsen op afstand | Percentage (n=117)
 :------------------|:----------
-Nee | 9.4%
 Ja | 90.6%
+Nee | 9.4%
 
 ## Problemen toetsen op afstand
 
@@ -93,11 +91,11 @@ Daarnaast wordt genoemd dat het eigenlijk niet mogelijk is om alleen de toetsdoe
 
 ### Problemen of uitdagingen bij (her)ontwerp van toets(en)
 
-Uit de meeste reacties blijkt dat er veelvuldig gebruik gemaakt is van de documenten die verschillende hogescholen aan elkaar beschikbaar stelden. Met name de HvA, de HU, Avans en de HAN worden genoemd. Binnen het Netwerk Toetsbekwaamheid, dat ook een aantal keer genoemd wordt (aantal) werd een hoop gedeeld. Een overzicht en concrete handvatten om toetsen om te zetten, en om goede toetsvragen te construeren, worden gemist. 
+Uit de meeste reacties blijkt dat er veelvuldig gebruik gemaakt is van de documenten die verschillende hogescholen aan elkaar beschikbaar stelden. Een overzicht en concrete handvatten om toetsen om te zetten, en om goede toetsvragen te construeren, worden gemist. 
 
-Ondanks deze beschikbaarheid liepen een aantal docenten toch tegen het probleem aan dat de vorm die de toets bij de omzetting moest krijgen niet duidelijk was. Het omzetten van vragen is een aparte vaardigheid die lang niet alle docenten binnen het hoger onderwijs bezitten. Vanwege de tijdsdruk moest er echter veel gebeuren. Deze steile leercurve, in combinatie met de hoeveelheid tijd en moeite die het maken van goede toetsvragen nu eenmaal kost, leverde een hoge werkdruk op. Zeker bij grote groepen levert de taxonomische omzetting problemen op, doordat de (veelal) open vragen een grote last zijn voor zowel studenten als docenten. Vanwege fraudegevoeligheid werden unieke antwoorden van studenten vaak wel als oplossing aangedragen. Daarnaast is er een aantal vraagtypen die lastig om te zetten zijn, denk bijvoorbeeld aan wiskundige formules of elektrische stroomschema’s. Een alternatief is om veel verschillende versies van toetsvragen en toetsen te maken, maar ook dat levert een hoge werkdruk op. Daar komt bij dat deze vragen, zoals aangegeven, niet hergebruikt kunnen worden omdat gebleken is dat studenten vragen verzamelen en met elkaar delen. Daarnaast is het probleem omzeild door op locatie te toetsen. 
+Ondanks deze beschikbaarheid liepen een aantal docenten toch tegen het probleem aan dat de vorm die de toets bij de omzetting moest krijgen niet duidelijk was. Daarnaast leverde het omzetten van de toetsvragen een hoge werkdruk op. Zeker bij grote groepen levert de taxonomische omzetting problemen op, doordat de (veelal) open vragen een grote last zijn voor zowel studenten als docenten. Vanwege fraudegevoeligheid werden unieke antwoorden van studenten vaak wel als oplossing aangedragen. Daarnaast is er een aantal vraagtypen die lastig om te zetten zijn, denk bijvoorbeeld aan wiskundige formules of elektrische stroomschema’s. Een alternatief is om veel verschillende versies van toetsvragen en toetsen te maken, maar ook dat levert een hoge werkdruk op. Daar komt bij dat deze vragen, zoals aangegeven, niet hergebruikt kunnen worden omdat gebleken is dat studenten vragen verzamelen en met elkaar delen. Een ander alternatief was toch op locatie te toetsen. 
 
-De grootste uitdaging ligt hem echter in de kwaliteit van de toetsing. Er worden veel (66) opmerkingen gemaakt over de toetskwaliteit, de borging van de toetskwaliteit en andere gerelateerde zaken; bijvoorbeeld fraudegevoeligheid, proctoring, of de werkdruk en tijdsdruk waardoor de kwaliteit onder druk komt te staan. Het is bij online toetsen lastig om zeker te weten dat de juiste student de, in een zeer korte tijd ontwikkelde, toets maakt en dat de antwoorden individueel onder de juiste omstandigheden gegeven worden. En zelfs als dat al zo is, dan is de vraag of er wel het juiste getoetst wordt, omdat er vaak op een ander niveau getoetst wordt. Soms wordt daarom bij proctoring naderhand alsnog besloten dat deze vorm niet toegestaan is, of is deze vorm niet toegestaan binnen bepaalde instituten/faculteiten. 
+Er worden veel (66) opmerkingen gemaakt over de toetskwaliteit, de borging van de toetskwaliteit en andere gerelateerde zaken; bijvoorbeeld fraudegevoeligheid, proctoring, of de werkdruk en tijdsdruk waardoor de kwaliteit onder druk komt te staan. Het is bij online toetsen lastig om zeker te weten dat de juiste student de, in een zeer korte tijd ontwikkelde, toets maakt en dat de antwoorden individueel onder de juiste omstandigheden gegeven worden. En zelfs als dat al zo is, dan is de vraag of er wel het juiste getoetst wordt, omdat er vaak op een ander niveau getoetst wordt.
 
 ### Problemen of uitdagingen bij (her)ontwerp van het toetsprogramma
 

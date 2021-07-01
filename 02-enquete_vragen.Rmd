@@ -151,14 +151,14 @@ Aanbevelingen voor concrete handreikingen liggen in de volgende onderdelen:
 Daarnaast is er behoefte aan expertbegeleiding bij bovenstaande vraagstukken, zowel op inhoudelijk als organisatorisch vlak, op diverse onderdelen binnen de toetscyclus. Goede voorbeelden worden als helpend ervaren, bijvoorbeeld in de vorm van instructievideo's. Deze worden soms meer gewaardeerd dan pagina’s aan lange handleidingen. 
 
 ## Procedures, regels, richtlijnen en toetsorganisatie
+
 ### Regels en richtlijnen
 
 **Liep u bij het toetsen op afstand tegen problemen aan bij procedures, regels en richtlijnen of in de toetsorganisatie?**
 
-:-| Problemen en uitdagingen bij procedures, regels en richtlijnen of in de toetsorganisatie?	| Mogelijke oplossingsrichtingen / verbetermogelijkheden | Nieuwe inzichten die u wilt delen
+&nbsp; | Problemen en uitdagingen bij procedures, regels en richtlijnen of in de toetsorganisatie?	| Mogelijke oplossingsrichtingen / verbetermogelijkheden | Nieuwe inzichten die u wilt delen
 :-|:--|:--|:--
-Doelbepaling/toetsontwerp |	
-* Overzicht houden op/robuustheid toetsprogramma. * Betrouwbaar en valide toetsen. * Aanpassingen kosten tijd en mogen (EC) of kunnen (ICT) soms niet. | Bijhouden wijzigingen in toetsen. Meer tijd, deskundigheid en ondersteuning. Flexibele systemen en toetsprogramma. Fysieke afname.	| Noodgedwongen hebben docenten een grote professionaliseringsslag gemaakt, maar dit heeft voor een hoge belasting gezorgd i.v.m. tijdsdruk en werkdruk. 
+Doelbepaling / toetsontwerp |	Overzicht houden op/robuustheid toetsprogramma. Betrouwbaar en valide toetsen. Aanpassingen kosten tijd en mogen (EC) of kunnen (ICT) soms niet. | Bijhouden wijzigingen in toetsen. Meer tijd, deskundigheid en ondersteuning. Flexibele systemen en toetsprogramma. Fysieke afname.	| Noodgedwongen hebben docenten een grote professionaliseringsslag gemaakt, maar dit heeft voor een hoge belasting gezorgd i.v.m. tijdsdruk en werkdruk. 
 Toetsconstructie | Zicht op afnamecondities bij digitale afname. Onbekendheid materie. Tijdsdruk. Lage orde toetsen onmogelijk. EC blokkeert andere toetsvorm.| Aanschaf speciale software, expert ondersteuning, meer tijd. Ruimte krijgen van EC. |
 Toetsafname | Betrouwbaarheid ICT. Proctoring en fraude. Meer tijd kwijt. Ondersteuning mist.	| Proctoring, meer tijd, fysieke afname, docenten aanwezig, veilige ICT. EC meer tijd geven, ondersteuning.	| Al veel gedaan, maar nog een lange weg te gaan voordat het toetsen op afstand goed en eerlijk kan plaatsvinden. 
 Beoordelen | Tijdsdruk i.v.m. deadlines en complexere beoordelingen. Authenticiteit van studenten, fraude. Soms onmogelijk om de OER-termijnen te aanhouden. | Docenten ondersteunen en facilteren. Analyses over slagingspercentages en plagiaat. | Ervaring noodzakelijk bij inzet en beoordelen van proctoringinformatie.

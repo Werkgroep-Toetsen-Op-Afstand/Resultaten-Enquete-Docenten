@@ -15,6 +15,10 @@ always_allow_html: true
 
 # Rapportage {#intro}
 
+<div style="float:right; margin-top: -66px; color: #9E8E67; font-size: 20px;">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ciiN5tyZDE-ugGfHCbnu319UAC0PIThOsXErf64kKXpUNTE5TkU4TkFNVTY4STJKUEYxVVozM0VCSyQlQCN0PWcu" target="_blank"><i class="fas fa-comment-alt"></i> Feedback</a>
+</div>
+
 De COVID-19-crisis toonde hoe veerkrachtig het hoger onderwijs kan zijn op het gebied van online onderwijs, maar ook waar de pijnpunten lagen. De pandemie maakte tijd- en plaatsonafhankelijk toetsen noodzakelijk. Tegelijkertijd kwamen daarmee ook verschillende uitdagingen aan het licht. Om die reden is eind 2020 de landelijke [werkgroep Toetsen op afstand](https://versnellingsplan.nl/zones/toetsen-op-afstand/) opgericht als onderdeel van het [Versnellingsplan Onderwijsinnovatie met ICT](https://versnellingsplan.nl), een gezamenlijk initiatief van VSNU, VH en SURF. De werkgroep heeft in het voorjaar van 2021 een vragenlijst uitgezet onder docenten in het Nederlandse hoger onderwijs met betrekking tot toetsen op afstand. Het doel van deze vragenlijst is om vast te stellen welke problemen er spelen bij docenten, welke inzichten het beste gedeeld kunnen worden en aan welke oplossingen en praktische handvatten docenten behoefte hebben, zowel tijdens als na de COVID-19-situatie. Dit eerste hoofdstuk  bevat een rapportage van de resultaten van de vragenlijst. Het geeft een overzicht van welke problemen docenten tegenkwamen, alsmede een richting en handvatten voor oplossingen en tools die docenten in de toekomst kunnen helpen bij toetsen op afstand. In [hoofdstuk 2](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/enqu%C3%AAte-vragen.html) staat een samenvatting van de resultaten per vraag uit de vragenlijst. In [hoofdstuk 3](https://werkgroep-toetsen-op-afstand.github.io/Resultaten-Enquete-Docenten/enqu%C3%AAte-data.html) is meer informatie over de vragenlijst te vinden, evenals de vragenlijst zelf en de data van de respondenten die toestemming hebben gegeven om de antwoorden publiekelijk beschikbaar te maken. 
 
 ## Signaleren vraagstukken
